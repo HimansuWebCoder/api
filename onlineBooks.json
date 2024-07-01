@@ -2,13 +2,13 @@
 	{
 		"name": "Think and Grow Rich",
 		"author": "Napolean Hill",
-		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwi3wHbqrjkfvpOz9DOAOOsH3Lg4Ij472Gw&s",
+		"image": "https://m.media-amazon.com/images/I/61CIKpN5QjL._AC_UF1000,1000_QL80_.jpg",
 	},
 
 	{
 		"name": "Mastery",
 		"author": "Robert Greene",
-		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX9nVkhNN5Jg5z54fxGl4CI6ZvklbCfQ9XYw&s",
+		"image": "https://m.media-amazon.com/images/I/51cYzBC0keL._AC_UF1000,1000_QL80_.jpg",
 	},
 
 	{
@@ -39,6 +39,6 @@
 		"name": "Rich Dad Poor Dad",
 		"author": "Robert Kyosaki",
 		"image": "https://www.theindianbookstore.in/cdn/shop/products/rich_dad_poor_dad_by_robert_t__1607410877_44fb96ac-768x1024.jpg?v=1659004008&width=1445",
-	},
+	}
 
 ]
