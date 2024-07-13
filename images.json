@@ -1,0 +1,166 @@
+[
+  {
+  	"foods": {
+  		"category": "fruits",
+  		"fruitsDetails": [
+  			{
+  				"name": "Mango",
+  				"title": "Sweet Mango",
+  				"price": 100,
+  				"image": "https://t4.ftcdn.net/jpg/05/41/05/85/360_F_541058586_BI3eaJvZO132lNExAwbARYSg7FfHknWz.jpg"
+  			},
+  			{
+  				"name": "Orange",
+  				"title": "Sweet Orange",
+  				"price": 150,
+  				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nz1C_5rV4mSRufXpiXDEq3stBNgK3LoMgw&s"
+  			},
+  			{
+  				"name": "Lichi",
+  				"title": "Sweet Lichi",
+  				"price": 90,
+  				"image": "https://www.shutterstock.com/image-photo/lychee-leaves-isolated-on-white-260nw-1023780235.jpg"
+  			},
+  			{
+  				"name": "Banana",
+  				"title": "Sweet Banana",
+  				"price": 160,
+  				"image": "https://media.istockphoto.com/id/1291262112/photo/banana.jpg?s=612x612&w=0&k=20&c=Na8FBcsTuhCRyuWLmbCV1FwOkvWLWFeVfQT-pd6tXk8="
+  			},
+  			{
+  				"name": "Grapes",
+  				"title": "Sweet Grapes",
+  				"price": 200,
+  				"image": "https://t4.ftcdn.net/jpg/00/70/94/63/360_F_70946377_VJXdpJqld6XOsOTO6lt95ieZSxGO0faM.jpg"
+  			},
+  			{
+  				"name": "Guava",
+  				"title": "Sweet Guava",
+  				"price": 50,
+  				"image": "https://www.shutterstock.com/image-photo/isolated-green-guava-pink-flesh-260nw-1656948391.jpg"
+  			},
+  			{
+  				"name": "Watermelon",
+  				"title": "Sweet Watermelon",
+  				"price": 180,
+  				"image": "https://img.freepik.com/premium-photo/watermelon-fruit-white-background_255512-1061.jpg"
+  			},
+  			{
+  				"name": "Coconut",
+  				"title": "Sweet Coconut",
+  				"price": 40,
+  				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEw9fYFvcSuI1GlobLdPP6U5JX7ORVdv3c9g&s"
+  			},
+  			{
+  				"name": "Pomegranete",
+  				"title": "Sweet Pomegranete",
+  				"price": 210,
+  				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVRZ63KYqQC8I3InPX0H5PhIIeHVVJC4lhVg&s"
+  			},
+  			{
+  				"name": "Jackfruit",
+  				"title": "Sweet Jackfruit",
+  				"price": 110,
+  				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_50DCvfEQjBmRlh0Sy2K0LSsOcbJc6e2U7g&s"
+  			}
+  		],
+  		"category": "veg",
+  		"vegDetails": [
+  			{
+  				"name": "Potato",
+  				"title": "Fresh Potato",
+  				"price": 35,
+  				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI7t2YvyHFQgaI_hiHdCsZ1RNUvQnMVrpfRA&s"
+  			},
+  			{
+  				"name": "Brinjal",
+  				"title": "Fresh Brinjal",
+  				"price": 30,
+  				"image": ""
+  			},
+  			{
+  				"name": "Onion",
+  				"title": "Fresh Onion",
+  				"price": 40,
+  				"image": ""
+  			},
+  			{
+  				"name": "Tomato",
+  				"title": "Fresh Tomato",
+  				"price": 45,
+  				"image": ""
+  			},
+  			{
+  				"name": "Carrot",
+  				"title": "Fresh Carrot",
+  				"price": 25,
+  				"image": ""
+  			},
+  			{
+  				"name": "Cabbage",
+  				"title": "Fresh Cabbage",
+  				"price": 30,
+  				"image": ""
+  			},
+  			{
+  				"name": "Cauliflower",
+  				"title": "Fresh Cauliflower",
+  				"price": 35,
+  				"image": ""
+  			},
+  			{
+  				"name": "Bitter-gourd",
+  				"title": "Fresh Bitter-gourd",
+  				"price": 35,
+  				"image": ""
+  			},
+  			{
+  				"name": "Cucumber",
+  				"title": "Fresh Cucumber",
+  				"price": 30,
+  				"image": ""
+  			},
+  			{
+  				"name": "Pumpkin",
+  				"title": "Fresh Pumpkin",
+  				"price": 20,
+  				"image": ""
+  			},
+  			{
+  				"name": "Radish",
+  				"title": "Fresh Radish",
+  				"price": 25,
+  				"image": ""
+  			},
+  			
+  		],
+  		"category": "Non-Veg",
+  		"Non-vegDetails": [
+  			{
+  				"name": "Chicken",
+  				"title": "Delicious Chicken",
+  				"price": 240,
+  				"image": ""
+  			},
+  			{
+  				"name": "Mutton",
+  				"title": "Delicious Mutton",
+  				"price": 800,
+  				"image": ""
+  			},
+  			{
+  				"name": "Fish",
+  				"title": "Delicious Fish",
+  				"price": 160,
+  				"image": ""
+  			},
+  			{
+  				"name": "Egg",
+  				"title": "Delicious Egg",
+  				"price": 50,
+  				"image": ""
+  			},		
+  		]
+  	}
+  }
+] 
