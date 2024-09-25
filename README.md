@@ -33,3 +33,7 @@ See also:
 | [Redis Enterprise](https://redislabs.com/get-started/) | Redis | 30 MB |  |
 | [Scalingo](https://scalingo.com/databases/postgresql) | PostgreSQL | 128 MB | Max 10 connections<br>⚠️ Payment method required after 30 day trial |
 | 👉 [Supabase](https://supabase.com/pricing) | PostgreSQL | 500 MB | Paused after 1 week inactivity<br>2 GB transfer limit |
+
+
+- Free emoji 
+https://emojipedia.org/rocket
